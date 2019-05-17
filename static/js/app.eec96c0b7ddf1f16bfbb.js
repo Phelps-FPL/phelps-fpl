@@ -337,13 +337,6 @@ html{
 
 * 电话：13xxxxxxxxx
 
-
-
-
-
-勾引方式
-----
-
 * 微信：137xxxxxxxx
 
 `, thanksMarkdown: `
@@ -1063,4 +1056,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[14]);
-//# sourceMappingURL=app.c2e89c0c993f0f6c58c3.js.map
+//# sourceMappingURL=app.eec96c0b7ddf1f16bfbb.js.map
