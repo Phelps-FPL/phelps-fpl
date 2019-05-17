@@ -226,13 +226,6 @@ html{
 
 * 电话：13xxxxxxxxx
 
-
-
-
-
-勾引方式
-----
-
 * 微信：137xxxxxxxx
 
 `, thanksMarkdown: `
