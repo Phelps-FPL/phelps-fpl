@@ -1,4 +1,5 @@
 本项目源于：https://github.com/jirengu-inc/animating-resume。向作者表示深深的敬意。
+直接copy了本项目的源码：https://github.com/sitexa/anires   初试一下，后面进行改进
 
 ## 使用方法
 
@@ -31,4 +32,3 @@ git push
 
 3. 开启 GitHub Pages 功能, 或者，把生成的目标文件```public/*```放在你的web服务器上。
 
-4，访问地址：https://your-github-username.github.io/anires/public
